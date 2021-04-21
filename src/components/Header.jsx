@@ -6,7 +6,7 @@ function Header() {
     <header>
       <h1>
         <EmojiObjectsIcon />
-        Keeper
+        Google Keep Clone
       </h1>
     </header>
   );
